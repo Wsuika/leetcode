@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:5_LongestPalindrome">
+   </FileRef>
+   <FileRef
+      location = "group:17_LetterCombinations">
+   </FileRef>
+   <FileRef
+      location = "group:43_Trap">
+   </FileRef>
+</Workspace>
